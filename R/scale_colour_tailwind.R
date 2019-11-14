@@ -9,7 +9,7 @@
 #' @importFrom ggplot2 discrete_scale
 #' 
 #' @export
-scale_color_tailwind <-
+scale_colour_tailwind <-
 function(palette = "main", discrete = TRUE, reverse = FALSE, ...) {
   # Find the selected palette from tailwind_palettes
   selected_palette <- tailwind_pal(palette = palette, reverse = reverse)
