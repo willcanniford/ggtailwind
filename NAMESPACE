@@ -2,3 +2,4 @@
 
 export(tailwind_cols)
 export(tailwind_cols_regex)
+importFrom(grDevices,colorRampPalette)
