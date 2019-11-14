@@ -1,4 +1,4 @@
-Package: r-ggplot2-tailwind
+Package: ggtailwind
 Title: Makes available tailwind's colour scheme for ggplot2
 Version: 0.0.0.9000
 Authors@R: 
