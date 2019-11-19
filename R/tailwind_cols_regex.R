@@ -9,6 +9,6 @@
 #' @export
 tailwind_cols_regex <-
 function(pattern) {
-  stored_colours <- get("default_colour_palette")
+  stored_colours <- ggtailwind::default_colour_palette
   stored_colours[grep(pattern, names(stored_colours))]
 }

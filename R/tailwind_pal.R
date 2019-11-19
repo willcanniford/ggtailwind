@@ -10,8 +10,7 @@
 #' 
 tailwind_pal <-
 function(palette = "main", reverse = FALSE, ...) {
-  basic_palettes <- get('tailwind_palettes')
-  selected_palette <- basic_palettes[[palette]]
+  selected_palette <- ggtailwind::tailwind_palettes[[palette]]
   
   if (reverse) {
     selected_palette <- rev(selected_palette)

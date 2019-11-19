@@ -11,7 +11,7 @@
 tailwind_cols <-
 function(...){
   # Get the stored tailwind colour palette from data/
-  stored_colours <- get("default_colour_palette")
+  stored_colours <- ggtailwind::default_colour_palette
   user_colours <- c(...)
   
   # Return all if nothing specified
