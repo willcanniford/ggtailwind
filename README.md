@@ -1,5 +1,7 @@
 # ggtailwind
-Package for applying Tailwind CSS default colours to ggplot2 visualations using `scale_colour_tailwind` and `scale_fill_tailwind`. 
+Package for applying Tailwind CSS default colours to ggplot2 visualations using `scale_colour_tailwind` and `scale_fill_tailwind`.  
+
+You can install the package using `devtools::install_github('willcanniford/ggtailwind')`. 
 
 More information about the default palette that is available with Tailwind CSS can be found [here](https://tailwindcss.com/docs/customizing-colors/#default-color-palette). 
 
