@@ -3,7 +3,7 @@
 #' @param pattern Regex pattern to search palette names
 #'
 #' @examples
-#' tailwind_cols_regex('orange-.*')
+#' tailwind_cols_regex('yellow-.*')
 #' tailwind_cols_regex('.*-400')
 #' 
 #' @export

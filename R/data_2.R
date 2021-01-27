@@ -2,7 +2,7 @@
 #'
 #' Combinations of colours found in \code{default_color_palette}. Split by base colour and shade. 
 #'
-#' @format A named list of length 20
+#' @format A named list of length 19.
 #' 
 #' @seealso \code{default_colour_palette}
 #' 
