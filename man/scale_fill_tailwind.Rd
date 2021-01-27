@@ -4,8 +4,7 @@
 \alias{scale_fill_tailwind}
 \title{Use tailwind palettes to colour ggplot2 plots}
 \usage{
-scale_fill_tailwind(palette = "main", discrete = TRUE,
-  reverse = FALSE, ...)
+scale_fill_tailwind(palette = "main", discrete = TRUE, reverse = FALSE, ...)
 }
 \arguments{
 \item{palette}{Character name from \code{tailwind_palettes}}

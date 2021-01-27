@@ -4,7 +4,9 @@
 \name{tailwind_palettes}
 \alias{tailwind_palettes}
 \title{A collection of basic colour palettes}
-\format{A named list of length 20}
+\format{
+A named list of length 19.
+}
 \usage{
 tailwind_palettes
 }

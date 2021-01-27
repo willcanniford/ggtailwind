@@ -13,7 +13,7 @@ tailwind_cols_regex(pattern)
 Extract hex codes using regex pattern
 }
 \examples{
-tailwind_cols_regex('orange-.*')
+tailwind_cols_regex('yellow-.*')
 tailwind_cols_regex('.*-400')
 
 }

@@ -4,8 +4,7 @@
 \alias{tailwind_pal_scale}
 \title{Create a scale palette using tailwind colours}
 \usage{
-tailwind_pal_scale(start = "green-500", end = "red-500",
-  middle = NULL, ...)
+tailwind_pal_scale(start = "green-500", end = "red-500", middle = NULL, ...)
 }
 \arguments{
 \item{start}{Character name from \code{tailwind_palettes} for the low end of the resulting scale}

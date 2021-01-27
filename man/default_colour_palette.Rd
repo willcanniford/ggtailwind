@@ -4,7 +4,9 @@
 \name{default_colour_palette}
 \alias{default_colour_palette}
 \title{Hex codes of all colours in tailwind css default colour palette}
-\format{A named list of length 92.}
+\format{
+A named list of length 82.
+}
 \source{
 \url{https://tailwindcss.com/docs/customizing-colors/#default-color-palette}
 }
@@ -12,6 +14,6 @@
 default_colour_palette
 }
 \description{
-A dataset containing 92 colours.
+A dataset containing 82 colours.
 }
 \keyword{datasets}
